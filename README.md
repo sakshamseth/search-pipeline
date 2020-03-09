@@ -1,4 +1,4 @@
-# search-pipelining
+# search-pipeline
 Tasks : 
 1. Manual effort to automated
 2. Status checking and Restarting if failed
